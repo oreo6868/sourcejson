@@ -46,7 +46,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/oreo6868/sourcephim",
+        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
         "fileSize": 13757,
         "status": 1,
         "language": "vi",
@@ -64,5 +64,4 @@
         "url": "https://abyss-api-two.vercel.app/download?file=PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
     }
-   
 ]
