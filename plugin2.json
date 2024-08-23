@@ -42,5 +42,27 @@
         "internalName": "PhimmoichillProvider",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/oreo6868/sourcephim",
+        "fileSize": 13757,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimmoichillProvider",
+        "url": "https://abyss-api-two.vercel.app/download?file=PhimmoichillProvider.cs3",
+        "name": "PhimmoichillProvider"
     }
+   
 ]
