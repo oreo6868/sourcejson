@@ -63,5 +63,26 @@
         "internalName": "PhimmoichillProvider",
         "url": "https://abyss-api-two.vercel.app/download?file=PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/tearrs/cloudstream-vietnamese",
+        "fileSize": 17312,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "BluphimProvider",
+        "url": "https://abyss-api-two.vercel.app/download?file=BluphimProvider.cs3",
+        "name": "BluphimProvider"
     }
 ]
