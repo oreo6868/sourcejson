@@ -1,0 +1,8 @@
+{
+    "name": "Test",
+    "description": "Nhà cung cấp từ mọi quốc gia",
+    "Phiên bản biểu hiện": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json"
+    ]
+}
