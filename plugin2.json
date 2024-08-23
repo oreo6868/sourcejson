@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/oreo6868/sourcephim",
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated ",
         "fileSize": 275303,
         "status": 1,
         "language": "en",
@@ -21,5 +21,26 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
         "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/oreo6868/sourcephim",
+        "fileSize": 15172,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "PhimmoichillProvider",
+        "url": "https://raw.githubusercontent.com/oreo6868/sourcephim/builds/PhimmoichillProvider.cs3",
+        "name": "PhimmoichillProvider"
     }
 ]
