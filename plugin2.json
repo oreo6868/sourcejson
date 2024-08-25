@@ -21,5 +21,48 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
         "name": "SoraStream"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 22875,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "BlurayProvider",
+        "description": "Phim 4K, Bluray",
+        "url": "https://abyss-api-two.vercel.app/download?file=BlurayProvider.cs3",
+        "name": "BlurayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 17312,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "BluphimProvider",
+        "url": "https://abyss-api-two.vercel.app/download?file=BluphimProvider.cs3",
+        "name": "BluphimProvider"
     }
+
+
+
+
 ]
