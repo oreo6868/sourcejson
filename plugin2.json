@@ -80,23 +80,6 @@
         "name": "BluphimProvider"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 23007,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "BlurayProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BlurayProvider_1725246708.cs3",
-        "name": "BlurayProvider"
-    },
-    {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -301,6 +284,48 @@
         "internalName": "SubnhanhProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=SubnhanhProvider_1725246708.cs3",
         "name": "SubnhanhProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 14626,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "PhimLongTiengProvider",
+        "url": "https://abyss-api-two.vercel.app/download?file=PhimLongTiengProvider.cs3",
+        "name": "PhimLongTiengProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 14231,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "TvPhimProvider",
+        "url": "https://abyss-api-two.vercel.app/download?file=TvPhimProvider.cs3",
+        "name": "TvPhimProvider"
     }
     
     
