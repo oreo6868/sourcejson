@@ -62,7 +62,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 19612,
+        "fileSize": 19563,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -76,14 +76,31 @@
         ],
         "version": 5,
         "internalName": "BluphimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1725411618.cs3",
         "name": "BluphimProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 23007,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "BlurayProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BlurayProvider_1725246708.cs3",
+        "name": "BlurayProvider"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 45766,
+        "fileSize": 47947,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -95,10 +112,10 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 5,
         "internalName": "FshareProvider",
         "description": "C\u1ea7n \u0111\u0103ng nh\u1eadp t\u00e0i kho\u1ea3n Fshare Vip",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=FshareProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=FshareProvider_1725411618.cs3",
         "name": "FshareProvider"
     },
     {
@@ -163,7 +180,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 18614,
+        "fileSize": 19878,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -175,9 +192,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "KKPhimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=KKPhimProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=KKPhimProvider_1725411618.cs3",
         "name": "KKPhimProvider"
     },
     {
@@ -205,7 +222,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 13316,
+        "fileSize": 13291,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -217,16 +234,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "OhitvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1725288030.cs3",
         "name": "OhitvProvider"
     },
     {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 19882,
+        "fileSize": 21041,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -238,16 +255,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "OPhimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OPhimProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OPhimProvider_1725411618.cs3",
         "name": "OPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15049,
+        "fileSize": 15302,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -259,9 +276,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "PhimmoichillProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimmoichillProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimmoichillProvider_1725288030.cs3",
         "name": "PhimmoichillProvider"
     },
     {
@@ -284,49 +301,8 @@
         "internalName": "SubnhanhProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=SubnhanhProvider_1725246708.cs3",
         "name": "SubnhanhProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 14626,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "PhimLongTiengProvider",
-        "url": "https://abyss-api-two.vercel.app/download?file=PhimLongTiengProvider.cs3",
-        "name": "PhimLongTiengProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 14231,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "TvPhimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?file=TvPhimProvider.cs3",
-        "name": "TvPhimProvider"
     }
+    
     
     
 
