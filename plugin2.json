@@ -26,7 +26,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 11134,
+        "fileSize": 11129,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -35,16 +35,16 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "AnimeHayProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=AnimeHayProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=AnimeHayProvider_1725782994.cs3",
         "name": "AnimeHayProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 13573,
+        "fileSize": 13575,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -53,9 +53,9 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "AnimeVietsubProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=AnimeVietsubProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=AnimeVietsubProvider_1725782994.cs3",
         "name": "AnimeVietsubProvider"
     },
     {
@@ -264,7 +264,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15302,
+        "fileSize": 15202,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -276,9 +276,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "PhimmoichillProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimmoichillProvider_1725288030.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimmoichillProvider_1725802602.cs3",
         "name": "PhimmoichillProvider"
     },
     {
@@ -302,6 +302,8 @@
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=SubnhanhProvider_1725246708.cs3",
         "name": "SubnhanhProvider"
     }
+
+    
     
     
     
