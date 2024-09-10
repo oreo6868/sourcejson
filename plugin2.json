@@ -23,6 +23,24 @@
         "name": "SoraStream"
     },
     {
+        "iconUrl": "https://anime47.de/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 11129,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Anime47Provider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=Anime47Provider_1725952747.cs3",
+        "name": "Anime47Provider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
