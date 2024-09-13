@@ -26,7 +26,7 @@
         "iconUrl": "https://anime47.de/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 11129,
+        "fileSize": 12718,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -35,9 +35,9 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "Anime47Provider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=Anime47Provider_1725952747.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=Anime47Provider_1726031937.cs3",
         "name": "Anime47Provider"
     },
     {
@@ -55,7 +55,7 @@
         ],
         "version": 7,
         "internalName": "AnimeHayProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=AnimeHayProvider_1725782994.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=AnimeHayProvider_1725782994.cs3",
         "name": "AnimeHayProvider"
     },
     {
@@ -73,7 +73,7 @@
         ],
         "version": 7,
         "internalName": "AnimeVietsubProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=AnimeVietsubProvider_1725782994.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=AnimeVietsubProvider_1725782994.cs3",
         "name": "AnimeVietsubProvider"
     },
     {
@@ -101,7 +101,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
         "fileSize": 23007,
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "anhdadendaden"
@@ -152,7 +152,7 @@
         "version": 7,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=HHPandaProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHPandaProvider_1725246708.cs3",
         "name": "HHPandaProvider"
     },
     {
@@ -171,7 +171,7 @@
         "version": 6,
         "internalName": "HHTMProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=HHTMProvider_1725246708.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1725246708.cs3",
         "name": "HHTMProvider"
     },
     {
@@ -216,6 +216,26 @@
         "name": "KKPhimProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=motchillci.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 14044,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MotchillProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=MotchillProvider_1726129315.cs3",
+        "name": "MotchillProvider"
+    },
+    {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -240,7 +260,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 13291,
+        "fileSize": 13283,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -252,9 +272,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "OhitvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1725288030.cs3",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1726129315.cs3",
         "name": "OhitvProvider"
     },
     {
