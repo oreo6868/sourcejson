@@ -16,9 +16,9 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "A-PhimHay",
+        "internalName": "PhimHay",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimHay_1726408282.cs3",
-        "name": "A-PhimHay"
+        "name": "PhimHay"
     },
     {
         "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
@@ -114,9 +114,9 @@
             "Movie"
         ],
         "version": 5,
-        "internalName": "A-BluphimProvider",
+        "internalName": "BluphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1725676476.cs3",
-        "name": "A-BluphimProvider"
+        "name": "BluphimProvider"
     },
     {
         "apiVersion": 1,
