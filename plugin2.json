@@ -96,23 +96,6 @@
         "name": "BluphimProvider"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 23007,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "BlurayProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BlurayProvider_1725246708.cs3",
-        "name": "BlurayProvider"
-    },
-    {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
