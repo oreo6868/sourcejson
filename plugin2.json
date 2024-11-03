@@ -190,26 +190,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohaytv.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15934,
-        "status": 1,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "OHayTvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OHayTvProvider_1728784018.cs3",
-        "name": "OHayTvProvider"
-    },
-    {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -310,27 +290,6 @@
         "description": "Vietsub phim nhanh",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=SubnhanhProvider_1728784018.cs3",
         "name": "SubnhanhProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30856,
-        "status": 1,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "TvPhimProvider",
-        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=TvPhimProvider_1728784018.cs3",
-        "name": "TvPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=vipphim.wiki&sz=%size%",
