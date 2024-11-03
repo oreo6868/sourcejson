@@ -17,6 +17,28 @@
         "name": "AnimeHayProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 333971,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire, Phisher98, Hexated, Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "CodeStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
+        "name": "CodeStream"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
