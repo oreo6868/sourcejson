@@ -59,7 +59,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 23593,
+        "fileSize": 26856,
         "status": 1,
         "authors": [
             "anhdadendaden"
@@ -70,7 +70,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "BluphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1728784018.cs3",
         "name": "BluphimProvider"
@@ -129,25 +129,6 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1728784018.cs3",
         "name": "HHTMProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hotphimvn.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 19910,
-        "status": 0,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 10,
-        "internalName": "HotphimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=HotphimProvider_1728784018.cs3",
-        "name": "HotphimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
@@ -244,7 +225,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimLongTiengProvider_1728784018.cs3",
@@ -312,27 +293,6 @@
         "name": "SubnhanhProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30856,
-        "status": 0,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "TvPhimProvider",
-        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=TvPhimProvider_1728784018.cs3",
-        "name": "TvPhimProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=vipphim.wiki&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -347,7 +307,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "VipphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=VipphimProvider_1728784018.cs3",
         "name": "VipphimProvider"
@@ -368,7 +328,7 @@
             "Anime",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "ViStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=ViStream_1728784018.cs3",
