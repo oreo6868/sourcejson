@@ -183,25 +183,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 18342,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "OhitvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1733393561.cs3",
-        "name": "OhitvProvider"
-    },
-    {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -372,6 +353,7 @@
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=ViStream_1733393561.cs3",
         "name": "ViStream"
     }
+    
 
 
     
