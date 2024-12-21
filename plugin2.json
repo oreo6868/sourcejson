@@ -89,6 +89,26 @@
         "name": "Cross-Device Sync"
     },
     {
+        "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 80112,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "FshareProvider",
+        "description": "C\u1ea7n \u0111\u0103ng nh\u1eadp t\u00e0i kho\u1ea3n Fshare Vip v\u00e0 d\u00f9ng VLC \u0111\u1ec3 ph\u00e1t",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=FshareProvider_1733393561.cs3",
+        "name": "FshareProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -145,6 +165,24 @@
         "name": "HHTMProvider"
     },
     {
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 27135,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "IPTVProvider",
+        "description": "C\u1ea7n nh\u1eadp link IPTV \u0111\u1ec3 xem",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=IPTVProvider_1733393561.cs3",
+        "name": "IPTVProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -181,6 +219,25 @@
         "internalName": "NguonCProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=NguonCProvider_1733393561.cs3",
         "name": "NguonCProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 18342,
+        "status": 1,
+        "language": "",
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "OhitvProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1733393561.cs3",
+        "name": "OhitvProvider"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
@@ -262,7 +319,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
         "fileSize": 38855,
-        "status": 1,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
