@@ -34,24 +34,6 @@
         "name": "AnimeVietsubProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 25612,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "BluphimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1733393561.cs3",
-        "name": "BluphimProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -182,24 +164,6 @@
         "description": "Phim TVB",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimLongTiengProvider_1733393561.cs3",
         "name": "PhimLongTiengProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 19459,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "PhimmoichillProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimmoichillProvider_1733393561.cs3",
-        "name": "PhimmoichillProvider"
     },
     {
         "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
