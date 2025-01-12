@@ -109,25 +109,6 @@
         "name": "KKPhimProvider"
     },
     {
-        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30254,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 8,
-        "internalName": "NguonCProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=NguonCProvider_1733393561.cs3",
-        "name": "NguonCProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
