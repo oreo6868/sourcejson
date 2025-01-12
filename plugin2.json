@@ -184,25 +184,6 @@
         "name": "PhimmoichillProvider"
     },
     {
-        "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 20738,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "PhimTuoiThoProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimTuoiThoProvider_1733393561.cs3",
-        "name": "PhimTuoiThoProvider"
-    },
-    {
         "iconUrl": "https://www.rophim.net/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
