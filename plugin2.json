@@ -239,25 +239,8 @@
         "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=TvPhimProvider_1733393561.cs3",
         "name": "TvPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vipphim.wiki&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 27240,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "VipphimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=VipphimProvider_1733393561.cs3",
-        "name": "VipphimProvider"
     }
+    
     
 
 
