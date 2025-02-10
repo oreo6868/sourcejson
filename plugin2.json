@@ -17,23 +17,6 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 21595,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 13,
-        "internalName": "AnimeVietsubProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=AnimeVietsubProvider_1733393561.cs3",
-        "name": "AnimeVietsubProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -50,62 +33,6 @@
         "internalName": "BluphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1733393561.cs3",
         "name": "BluphimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 20359,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 5,
-        "internalName": "HHkungfuProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHkungfuProvider_1733393561.cs3",
-        "name": "HHkungfuProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 17645,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 11,
-        "internalName": "HHPandaProvider",
-        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHPandaProvider_1733393561.cs3",
-        "name": "HHPandaProvider"
-    },
-    {
-        "iconUrl": "https://hhtm.site/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 28631,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 15,
-        "internalName": "HHTMProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1733393561.cs3",
-        "name": "HHTMProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
@@ -144,25 +71,6 @@
         "internalName": "NguonCProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=NguonCProvider_1733393561.cs3",
         "name": "NguonCProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 18342,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "OhitvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OhitvProvider_1733393561.cs3",
-        "name": "OhitvProvider"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
@@ -219,25 +127,6 @@
         "internalName": "PhimmoichillProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimmoichillProvider_1733393561.cs3",
         "name": "PhimmoichillProvider"
-    },
-    {
-        "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 20738,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "PhimTuoiThoProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimTuoiThoProvider_1733393561.cs3",
-        "name": "PhimTuoiThoProvider"
     },
     {
         "iconUrl": "https://www.rophim.net/favicon.ico",
