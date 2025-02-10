@@ -145,63 +145,6 @@
         "internalName": "RoPhimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=RoPhimProvider_1733393561.cs3",
         "name": "RoPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 18455,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "SubnhanhProvider",
-        "description": "Vietsub phim nhanh",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=SubnhanhProvider_1733393561.cs3",
-        "name": "SubnhanhProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31819,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "TvPhimProvider",
-        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=TvPhimProvider_1733393561.cs3",
-        "name": "TvPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vipphim.wiki&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 27240,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "VipphimProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=VipphimProvider_1733393561.cs3",
-        "name": "VipphimProvider"
     }
     
     
