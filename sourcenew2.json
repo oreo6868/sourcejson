@@ -3,6 +3,6 @@
     "description": "Nhà cung cấp từ mọi quốc gia",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://gitlab.com/tearrs/movie/-/raw/main/repo.json"
+        "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
     ]
 }
