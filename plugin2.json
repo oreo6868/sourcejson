@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 32356,
+        "fileSize": 32411,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 34110,
+        "fileSize": 34113,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 27830,
+        "fileSize": 27827,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -56,7 +56,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.chat&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 28363,
+        "fileSize": 28429,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -72,10 +72,10 @@
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.my&sz=%size%",
+        "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30854,
+        "fileSize": 30847,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -93,7 +93,7 @@
         "iconUrl": "https://hhtm.site/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31759,
+        "fileSize": 31707,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -112,7 +112,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 33966,
+        "fileSize": 44412,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -131,7 +131,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 44221,
+        "fileSize": 50440,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -150,7 +150,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 21220,
+        "fileSize": 21232,
         "status": 1,
         "language": "",
         "authors": [
@@ -169,7 +169,7 @@
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 34092,
+        "fileSize": 44605,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -188,7 +188,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 29569,
+        "fileSize": 29533,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -207,7 +207,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 29892,
+        "fileSize": 30087,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -225,7 +225,7 @@
         "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30356,
+        "fileSize": 30632,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -245,7 +245,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 26231,
+        "fileSize": 26492,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -264,7 +264,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 38754,
+        "fileSize": 38741,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -284,8 +284,8 @@
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 37514,
-        "status": 1,
+        "fileSize": 37490,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
@@ -298,26 +298,6 @@
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
-    },
-    {
-        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 35544,
-        "status": 1,
-        "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 14,
-        "internalName": "NetflixMirrorProvider",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider"
     }
     
     
