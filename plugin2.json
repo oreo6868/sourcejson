@@ -17,23 +17,6 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 34113,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 13,
-        "internalName": "AnimeVietsubProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeVietsubProvider.cs3",
-        "name": "AnimeVietsubProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -70,24 +53,6 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
         "name": "HHkungfuProvider"
-    },
-    {
-        "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30847,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 11,
-        "internalName": "HHPandaProvider",
-        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
-        "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://hhtm.site/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
@@ -147,25 +112,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 21232,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "OHiTVProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OHiTVProvider.cs3",
-        "name": "OHiTVProvider"
-    },
-    {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -185,25 +131,6 @@
         "name": "OPhimProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 29533,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "PhimLongTiengProvider",
-        "description": "Phim TVB, phim x\u01b0a",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
-        "name": "PhimLongTiengProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -220,26 +147,6 @@
         "internalName": "PhimMoiProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
-    },
-    {
-        "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30632,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "PhimTuoiThoProvider",
-        "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
-        "name": "PhimTuoiThoProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
