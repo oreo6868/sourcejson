@@ -3,6 +3,6 @@
     "description": "Nhà cung cấp từ mọi quốc gia",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/oreo6868/sourcejson/master/plugin2.json"
+        "https://git.disroot.org/tearrs/cs3/src/branch/main/plugins.json"
     ]
 }
