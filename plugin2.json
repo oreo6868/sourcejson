@@ -2,8 +2,8 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31519,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 29910,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -13,8 +13,103 @@
         ],
         "version": 11,
         "internalName": "AnimeHayProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 46571,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "BluPhimProvider",
+        "description": "FullHD",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/BluPhimProvider.cs3",
+        "name": "BluPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 42792,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "KKPhimProvider",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/KKPhimProvider.cs3",
+        "name": "KKPhimProvider"
+    },
+    {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 47225,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "NguonCProvider",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/NguonCProvider.cs3",
+        "name": "NguonCProvider"
+    },
+    {
+        "iconUrl": "https://ophim17.cc/icon_ophim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 42894,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "OPhimProvider",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/OPhimProvider.cs3",
+        "name": "OPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 50620,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "VipPhimProvider",
+        "description": "FullHD",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/VipPhimProvider.cs3",
+        "name": "VipPhimProvider"
     }
     
 
