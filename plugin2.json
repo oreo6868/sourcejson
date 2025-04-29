@@ -129,6 +129,57 @@
         "description": "FullHD",
         "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 17397,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "JavHDProvider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/JavHDProvider.cs3",
+        "name": "JavHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 17092,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "Sextop1Provider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/Sextop1Provider.cs3",
+        "name": "Sextop1Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.lol&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 17855,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "VlxxProvider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/VlxxProvider.cs3",
+        "name": "VlxxProvider"
     }
     
 
