@@ -76,8 +76,8 @@
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
-        "fileSize": 47225,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 51193,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -87,9 +87,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "NguonCProvider",
-        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/NguonCProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
