@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
-        "fileSize": 29910,
+        "fileSize": 30800,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -17,29 +17,10 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 28862,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 12,
-        "internalName": "PhimLongTiengProvider",
-        "description": "Phim TVB, phim x\u01b0a",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
-        "name": "PhimLongTiengProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
-        "fileSize": 46571,
+        "fileSize": 48538,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -58,7 +39,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
-        "fileSize": 42792,
+        "fileSize": 44823,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -76,8 +57,8 @@
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 51193,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 49469,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -89,14 +70,14 @@
         ],
         "version": 9,
         "internalName": "NguonCProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
-        "fileSize": 42894,
+        "fileSize": 45022,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -112,10 +93,28 @@
         "name": "OPhimProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
+        "fileSize": 29733,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "PhimMoiProvider",
+        "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/PhimMoiProvider.cs3",
+        "name": "PhimMoiProvider"
+    },
+    {
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://git.disroot.org/tearrs/cs3",
-        "fileSize": 50620,
+        "fileSize": 51418,
         "status": 1,
         "authors": [
             "anhdaden"
