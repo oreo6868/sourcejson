@@ -29,7 +29,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/BluPhimProvider.cs3",
