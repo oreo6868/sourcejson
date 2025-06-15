@@ -68,7 +68,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "NguonCProvider",
         "url": "https://git.disroot.org/tearrs/cs3/raw/branch/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
