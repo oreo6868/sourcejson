@@ -3,149 +3,170 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 29586,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 29586,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 11,
+        "phiên bản": 11,
         "internalName": "AnimeHayProvider",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/AnimeHayProvider.cs3",
-        "name": "AnimeHayProvider"
+        "tên": "AnimeHayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "fileSize": 188811,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 25,
+        "internalName": "ViStreamProvider",
+        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/ViStreamProvider.cs3",
+        "name": "ViStreamProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 48140,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 48140,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Phim truyền hình",
+            "Bộ phim"
         ],
-        "version": 16,
+        "phiên bản": 16,
         "internalName": "BluPhimProvider",
-        "description": "FullHD",
+        "mô tả": "FullHD",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/BluPhimProvider.cs3",
-        "name": "BluPhimProvider"
+        "tên": "Nhà cung cấp BluPhim"
     },
     {
         "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 29708,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 29708,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 12,
+        "phiên bản": 12,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/HHPandaProvider.cs3",
-        "name": "HHPandaProvider"
+        "tên": "HHPandaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 44160,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 44160,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
             "Anime",
-            "TvSeries",
-            "Movie"
+            "Phim truyền hình",
+            "Bộ phim"
         ],
-        "version": 10,
+        "phiên bản": 10,
         "internalName": "KKPhimProvider",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/KKPhimProvider.cs3",
-        "name": "KKPhimProvider"
+        "tên": "KKPhimProvider"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 44104,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 44104,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
             "Anime",
-            "TvSeries",
-            "Movie"
+            "Phim truyền hình",
+            "Bộ phim"
         ],
-        "version": 10,
+        "phiên bản": 10,
         "internalName": "OPhimProvider",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/OPhimProvider.cs3",
-        "name": "OPhimProvider"
+        "tên": "OPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 29729,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 29729,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Phim truyền hình",
+            "Bộ phim"
         ],
-        "version": 1,
+        "phiên bản": 1,
         "internalName": "PhimHDCProvider",
-        "description": "FullHD",
+        "mô tả": "FullHD",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/PhimHDCProvider.cs3",
-        "name": "PhimHDCProvider"
+        "tên": "PhimHDCProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 28545,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 28545,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Phim truyền hình",
+            "Bộ phim"
         ],
-        "version": 9,
+        "phiên bản": 9,
         "internalName": "PhimMoiProvider",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/PhimMoiProvider.cs3",
-        "name": "PhimMoiProvider"
+        "tên": "PhimMoiProvider"
     },
     {
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 50488,
-        "status": 1,
-        "authors": [
+        "kích thước tệp": 50488,
+        "trạng thái": 1,
+        "tác giả": [
             "anhdaden"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Phim truyền hình",
+            "Bộ phim"
         ],
-        "version": 9,
+        "phiên bản": 9,
         "internalName": "VipPhimProvider",
-        "description": "FullHD",
+        "mô tả": "FullHD",
         "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/VipPhimProvider.cs3",
-        "name": "VipPhimProvider"
+        "tên": "Nhà cung cấp VipPhim"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.cc&sz=%size%",
