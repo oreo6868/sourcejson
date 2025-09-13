@@ -2,8 +2,8 @@
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 29586,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 30800,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -13,35 +13,14 @@
         ],
         "version": 11,
         "internalName": "AnimeHayProvider",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/AnimeHayProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
-        "fileSize": 188811,
-        "status": 1,
-        "authors": [
-            "anhdaden",
-            "hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 25,
-        "internalName": "ViStreamProvider",
-        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/ViStreamProvider.cs3",
-        "name": "ViStreamProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 48140,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 48538,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -53,32 +32,14 @@
         "version": 16,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/BluPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/BluPhimProvider.cs3",
         "name": "BluPhimProvider"
-    },
-    {
-        "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 29708,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 12,
-        "internalName": "HHPandaProvider",
-        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/HHPandaProvider.cs3",
-        "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 44160,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 44823,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -90,14 +51,33 @@
         ],
         "version": 10,
         "internalName": "KKPhimProvider",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/KKPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
+    },
+    {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 49469,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "NguonCProvider",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/NguonCProvider.cs3",
+        "name": "NguonCProvider"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 44104,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 45022,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -109,33 +89,14 @@
         ],
         "version": 10,
         "internalName": "OPhimProvider",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/OPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/OPhimProvider.cs3",
         "name": "OPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 29729,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "PhimHDCProvider",
-        "description": "FullHD",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/PhimHDCProvider.cs3",
-        "name": "PhimHDCProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 28545,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 29733,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -146,14 +107,14 @@
         ],
         "version": 9,
         "internalName": "PhimMoiProvider",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/PhimMoiProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
     },
     {
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/tearrs/cs3",
-        "fileSize": 50488,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 51418,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -165,59 +126,8 @@
         "version": 9,
         "internalName": "VipPhimProvider",
         "description": "FullHD",
-        "url": "https://codeberg.org/tearrs/cs3/raw/branch/main/VipPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 17397,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 5,
-        "internalName": "JavHDProvider",
-        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/JavHDProvider.cs3",
-        "name": "JavHDProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.site&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 17092,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 7,
-        "internalName": "Sextop1Provider",
-        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/Sextop1Provider.cs3",
-        "name": "Sextop1Provider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.lol&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 17855,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 5,
-        "internalName": "VlxxProvider",
-        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/VlxxProvider.cs3",
-        "name": "VlxxProvider"
     }
     
 
