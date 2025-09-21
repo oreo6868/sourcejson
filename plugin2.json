@@ -17,25 +17,6 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 48538,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 16,
-        "internalName": "BluPhimProvider",
-        "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/test/BluPhimProvider.cs3",
-        "name": "BluPhimProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/movie",
@@ -128,6 +109,25 @@
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/movie",
+        "fileSize": 48538,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "BluPhimProvider",
+        "description": "FullHD",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/BluPhimProvider.cs3",
+        "name": "BluPhimProvider"
     }
     
 
