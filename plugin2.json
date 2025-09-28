@@ -86,7 +86,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/NguonCProvider.cs3",
         "name": "NguonCProvider"
