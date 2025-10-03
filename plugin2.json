@@ -29,7 +29,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 18,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/BluPhimProvider.cs3",
