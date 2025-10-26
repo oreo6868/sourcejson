@@ -29,7 +29,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 18,
+        "version": 16,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/BluPhimProvider.cs3",
@@ -86,7 +86,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 9,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/NguonCProvider.cs3",
         "name": "NguonCProvider"
