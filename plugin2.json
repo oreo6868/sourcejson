@@ -17,25 +17,6 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs",
-        "fileSize": 34743,
-        "status": 1,
-        "authors": [
-            "tearrs"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 16,
-        "internalName": "BluPhimProvider",
-        "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/test/BluPhimProvider.cs3",
-        "name": "BluPhimProvider"
-    },
-    {
         "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs",
@@ -111,25 +92,6 @@
         "name": "OPhimProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs",
-        "fileSize": 40839,
-        "status": 1,
-        "authors": [
-            "tearrs"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "PhimHDCProvider",
-        "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/test/PhimHDCProvider.cs3",
-        "name": "PhimHDCProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs",
@@ -165,24 +127,6 @@
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
-    },
-    {
-        "iconUrl": "https://xem17.net/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs",
-        "fileSize": 23425,
-        "status": 1,
-        "authors": [
-            "tearrs"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Xem8zProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/test/Xem8zProvider.cs3",
-        "name": "Xem8zProvider"
     },
     {
         "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
