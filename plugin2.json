@@ -2,11 +2,11 @@
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 30800,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 29518,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "tearrs"
         ],
         "tvTypes": [
             "Anime"
@@ -19,11 +19,11 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 48538,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 34743,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "tearrs"
         ],
         "tvTypes": [
             "TvSeries",
@@ -36,20 +36,38 @@
         "name": "BluPhimProvider"
     },
     {
+        "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 29829,
+        "status": 0,
+        "authors": [
+            "tearrs"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 12,
+        "internalName": "HHPandaProvider",
+        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/HHPandaProvider.cs3",
+        "name": "HHPandaProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 44823,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 44287,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "tearrs"
         ],
         "tvTypes": [
             "Anime",
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "KKPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
@@ -57,11 +75,11 @@
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 49469,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 49038,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "tearrs"
         ],
         "tvTypes": [
             "Anime",
@@ -76,30 +94,49 @@
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 45022,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 44196,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "tearrs"
         ],
         "tvTypes": [
             "Anime",
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 12,
         "internalName": "OPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 29733,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 40839,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "tearrs"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimHDCProvider",
+        "description": "FullHD",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/PhimHDCProvider.cs3",
+        "name": "PhimHDCProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 29512,
+        "status": 1,
+        "authors": [
+            "tearrs"
         ],
         "tvTypes": [
             "TvSeries",
@@ -113,11 +150,11 @@
     {
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/movie",
-        "fileSize": 51418,
-        "status": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 50448,
+        "status": 0,
         "authors": [
-            "anhdaden"
+            "tearrs"
         ],
         "tvTypes": [
             "TvSeries",
@@ -128,6 +165,115 @@
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/test/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
+    },
+    {
+        "iconUrl": "https://xem17.net/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 23425,
+        "status": 1,
+        "authors": [
+            "tearrs"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Xem8zProvider",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/Xem8zProvider.cs3",
+        "name": "Xem8zProvider"
+    },
+    {
+        "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs",
+        "fileSize": 32655,
+        "status": 1,
+        "authors": [
+            "tearrs"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 21,
+        "internalName": "YanHH3DProvider",
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/test/YanHH3DProvider.cs3",
+        "name": "YanHH3DProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "fileSize": 174801,
+        "status": 1,
+        "authors": [
+            "tearrs",
+            "hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 26,
+        "internalName": "ViStreamProvider",
+        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/ViStreamProvider.cs3",
+        "name": "ViStreamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 11358,
+        "status": 1,
+        "authors": [
+            "tearrs"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "JavHDProvider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/JavHDProvider.cs3",
+        "name": "JavHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 11078,
+        "status": 1,
+        "authors": [
+            "tearrs"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "Sextop1Provider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/Sextop1Provider.cs3",
+        "name": "Sextop1Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.lol&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 11904,
+        "status": 1,
+        "authors": [
+            "tearrs"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "VlxxProvider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/VlxxProvider.cs3",
+        "name": "VlxxProvider"
     }
 
 
