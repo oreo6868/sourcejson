@@ -1,7 +1,7 @@
 {
     "name": "PhimHay",
     "description": "Nhà cung cấp từ mọi quốc gia",
-    "manifestVersion": 1,
+    "manifestVersion": 2,
     "pluginLists": [
         "https://raw.githubusercontent.com/oreo6868/sourcejson/master/plugin2.json"
     ]
