@@ -273,23 +273,7 @@
             "url": "monplayer://monplayer.org?link=https%3A%2F%2Fop.hdpe.pro\u0026type=provider",
             "external": true
           }
-        },
-        {
-          "id": "vtvgo",
-          "name": "VTVGO",
-          "display": "text-below",
-          "image": {
-            "url": "https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png",
-            "height": 100,
-            "width": 100,
-            "display": "cover"
-          },
-          "remote_data": {
-            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fvtvgo.4share.me%2Fv1\u0026type=provider",
-            "external": true
-          }
         }
-
     
 
 
