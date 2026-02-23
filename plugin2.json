@@ -334,7 +334,22 @@
         "description": "Pokemon v\u00e0 super sentai",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
         "name": "YumeiAnimeProvider"
-    }
+    },
+    {
+          "id": "ophim",
+          "name": "Ophim",
+          "display": "text-below",
+          "image": {
+            "url": "https://op.hdpe.pro/images/logo.png",
+            "height": 100,
+            "width": 100,
+            "display": "cover"
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fop.hdpe.pro\u0026type=provider",
+            "external": true
+          }
+        }
 
     
 
