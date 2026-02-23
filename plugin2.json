@@ -90,6 +90,63 @@
         "name": "HHkungfuProvider"
     },
     {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhpanda.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 32339,
+        "status": 0,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 13,
+        "internalName": "HHPandaProvider",
+        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
+        "name": "HHPandaProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhtq.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 34377,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 2,
+        "internalName": "HHTQProvider",
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
+        "name": "HHTQProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/holitv.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 36752,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "HoliTVProvider",
+        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
+        "name": "HoliTVProvider"
+    },
+    {
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
@@ -145,6 +202,25 @@
         "internalName": "OPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 46688,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "PhimHDCProvider",
+        "description": "FullHD",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
+        "name": "PhimHDCProvider"
     },
     {
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimlongtieng.ico",
@@ -258,22 +334,7 @@
         "description": "Pokemon v\u00e0 super sentai",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
         "name": "YumeiAnimeProvider"
-    },
-    {
-          "id": "ophim",
-          "name": "Ophim",
-          "display": "text-below",
-          "image": {
-            "url": "https://op.hdpe.pro/images/logo.png",
-            "height": 100,
-            "width": 100,
-            "display": "cover"
-          },
-          "remote_data": {
-            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fop.hdpe.pro\u0026type=provider",
-            "external": true
-          }
-        }
+    }
     
 
 
